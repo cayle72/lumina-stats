@@ -1,0 +1,10 @@
+{
+  "description": "This platform empowers users to enhance their emotional well-being by transforming personal data into intuitive visual reports for informed decision-making.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
